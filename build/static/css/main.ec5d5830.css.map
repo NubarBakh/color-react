@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.ec5d5830.css","mappings":"AAAA,eAKA,iBAAkB,CALZ,YAAa,CAEnB,YAAa,CACb,YAAa,CAFb,WAImB","sources":["context api/a.module.css"],"sourcesContent":[".main{display: flex;\r\nwidth: 100px;\r\nheight: 100px;\r\npadding: 50px;\r\n\r\nborder-radius: 50%;}"],"names":[],"sourceRoot":""}
